@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - test
+  - Wall
+  - EnemyBullet
+  - Enemy1
+  - Enemy2
+  - Enemy3
+  - Enemy4
+  - Enemy5
+  - DamageText
+  - Gem1
+  - Gem2
+  - Barrior
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2295085489
+    locked: 0
+  - name: Ground
+    uniqueID: 1457304595
+    locked: 0
+  - name: PlayerGround
+    uniqueID: 3038081185
+    locked: 0
+  - name: WallLayer
+    uniqueID: 2038264517
+    locked: 0
+  - name: Foreground
+    uniqueID: 223084659
+    locked: 0
